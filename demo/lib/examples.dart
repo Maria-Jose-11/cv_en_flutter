@@ -16,8 +16,8 @@ import 'examples/resume3.dart';
 const examples = <Example>[
   Example('INTEGRANTE 1', 'resume.dart', generateResume),
   Example("INTEGRANTE 2", 'resume2.dart', generateResume2),
-  Example('INTEGRANTE 3', 'document.dart', generateDocument),
-  Example('PRUEBA ', 'resume3.dart', generateResume3),
+  //Example('INTEGRANTE 3', 'document.dart', generateDocument),
+  //Example('PRUEBA ', 'resume3.dart', generateResume3),
 
 ];
 
